@@ -2,6 +2,8 @@
 
 **Domain: Large enterprises with in-house engineering, including regulated financial-domain applications; IT services firms running AppSec platforms for clients** · Org type: both
 
+![Switching on a security tool takes a day; earning developers' trust takes longer. Tool enabled versus code covered, and five steps to a successful rollout](security-tool-rollout-enabled-to-covered.png)
+
 > **In short**
 > - **The problem:** adding GitHub Advanced Security to a mature AppSec programme without coverage gaps, duplicate alerts or developer fatigue.
 > - **The approach:** treat the security platform as an internal product: evaluation criteria, a time-boxed pilot, a Go / No-Go decision, rollout in batches, champions and KPIs.
