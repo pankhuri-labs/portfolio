@@ -2,6 +2,8 @@
 
 **Domain: Banks, NBFCs and digital lenders; designed to extend to insurance, healthcare, telecom and e-commerce** · Org type: both
 
+![A compliance deadline creates a rush; readiness is what lasts. From a one-time DPDP gap assessment to a continuous readiness loop](images/dpdp-compliance-readiness-loop.png)
+
 > **In short**
 > - **The problem:** India's DPDP Act core duties apply from May 2027, and most banks and NBFCs still track readiness in workshops and spreadsheets.
 > - **The approach:** a closed readiness loop (evaluate, consolidate, remediate, re-evaluate, confirm) on a process-level data map, with RBI, CERT-In and PCI DSS overlays.
