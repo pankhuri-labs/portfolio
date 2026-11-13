@@ -12,7 +12,7 @@ Based in Pune, India · Open to security leadership, security programme and secu
 
 | | |
 |---|---|
-| **10,000+ developers · 55,000+ repositories** | GitHub Advanced Security rolled out in four months, a month before the legacy contracts ended. Won the company's annual **CISO Award** |
+| **10,000+ developers · 55,000+ repositories** | GitHub Advanced Security rolled out in four months, a month ahead of plan. Won the company's annual **CISO Award** |
 | **35% → ~70%** | Application security findings fixed within SLA |
 | **$990K a year** | Licence cost removed by replacing the incumbent SAST tool |
 | **~600 secrets** | Blocked before reaching the codebase by push protection |
@@ -23,7 +23,7 @@ Based in Pune, India · Open to security leadership, security programme and secu
 
 **1. [Rolling out a security platform to 10,000+ developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for GitHub Advanced Security, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
 
-**2. [Insourcing a service from vendors, a month and a half early](selected-work/vendor-insourcing.md).** I built a team from scratch to take Content Shared Services for two regions back in-house, despite reluctant stakeholders and a thin contract.
+**2. [Insourcing a service from vendors, a month and a half early](selected-work/vendor-insourcing.md).** I built a team from scratch to take Content Shared Services for two regions back in-house, and had it running a month and a half ahead of plan.
 
 **3. [Modernising a legacy product for 500 users](selected-work/process-reengineering-savings.md).** As product owner for two Scrum teams, I replaced 20+ years of legacy systems, made content delivery 10x faster and saved 4,500 hours a year.
 
@@ -33,6 +33,10 @@ Based in Pune, India · Open to security leadership, security programme and secu
 |---|---|
 | [Exploit-driven vulnerability prioritisation](case-studies/CS01-Exploit-Driven-Vulnerability-Prioritization/README.md) | How do you stop spending patch time on flaws nobody exploits? Includes a working prioritiser script. |
 | [Scaling GitHub Advanced Security across a large enterprise](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md) | How do you add an AppSec platform without coverage gaps, duplicate alerts or developer fatigue? |
+| [Designing a security testing programme beyond scanners](case-studies/CS53-Security-Testing-Programme-Beyond-Scanners/README.md) | Which testing does each application need, and how do the findings actually get fixed? |
+| [Why security tools fail to land](case-studies/CS50-Security-Tool-Adoption-and-Vendor-Scaling/README.md) | What stops a bought tool from being adopted, and what vendors must fix to scale across customers? Includes adoption scorecards. |
+| [Running a penetration testing programme](case-studies/CS47-Penetration-Testing-Programme-Management/README.md) | How does a security manager scope, govern and close out pen tests so the same findings stop coming back? Includes governance templates. |
+| [Application security debt and the developer ratio](case-studies/CS25-AppSec-Debt-and-Developer-Ratio/README.md) | How does a small AppSec team cover hundreds of developers? Paved roads, champions and risk-based triage. |
 | [DPDP Act readiness for banks and NBFCs](case-studies/CS34-FS-DPDP-Act-Readiness-Automation/README.md) | How do you turn India's data protection law into controls, owners and evidence that stay current? |
 
 ## How I lead

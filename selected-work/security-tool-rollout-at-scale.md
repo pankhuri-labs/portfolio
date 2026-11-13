@@ -4,18 +4,18 @@
 
 ## The situation
 
-The company was replacing an incumbent SAST tool and a home-grown secret scanner. The existing contracts were ending, the old tools were noisy and unstable, and developers were frustrated with handoffs. The estate covered more than 55,000 repositories, including citizen developers building automations outside IT. Only 35% of application security findings were being fixed within SLA.
+The company was replacing an incumbent SAST tool and a home-grown secret scanner. The old tools were noisy and unstable, and developers were frustrated with handoffs. The estate covered more than 55,000 repositories, including citizen developers building automations outside IT. Only 35% of application security findings were being fixed within SLA.
 
 ## What I did
 
 - Defined the **evaluation criteria** and ran a time-boxed, phased pilot of secret scanning and code scanning.
 - Built a **12-person AppSec team** from the ground up and guided it to a **Go / No-Go recommendation** that leadership approved.
-- Planned **rollout batches**, owned the KPIs and the SLA policy (Critical 30 / High 60 / Medium 90 days), and built a **security champions network of about 100 people** across departments.
+- Planned **rollout batches**, owned the KPIs and the severity-based SLA policy, and built a **security champions network of about 100 people** across departments.
 - Handled the hard trade-off: business units that couldn't yet move to the cloud got the tools on the on-premises instance, with an agreed path to migrate.
 
 ## The result
 
-- Rolled out in **four months, a month before the old contracts ended**.
+- Rolled out in **four months, a month ahead of plan**.
 - **$990K a year** in licence cost removed.
 - **99% secret-scanning coverage** across all repositories, with **~600 secrets blocked** by push protection, and **95% repository coverage** in the targeted departments.
 - Findings fixed within SLA rose from **35% to about 70%**.
