@@ -55,6 +55,6 @@ I have 20 years in enterprise technology: 12 in Java and content-management engi
 ## Get in touch
 
 - Email: pankhuri.awasthi@gmail.com
-- LinkedIn: _[add profile link]_
+- LinkedIn: [linkedin.com/in/pankhurimishra](https://www.linkedin.com/in/pankhurimishra/)
 
 I also take on occasional advisory work for security programmes. → [Advisory](advisory.md)
