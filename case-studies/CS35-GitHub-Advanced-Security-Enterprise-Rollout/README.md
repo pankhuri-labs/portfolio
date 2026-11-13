@@ -8,7 +8,7 @@
 > - **The problem:** adding GitHub Advanced Security to a mature AppSec programme without coverage gaps, duplicate alerts or developer fatigue.
 > - **The approach:** treat the security platform as an internal product: evaluation criteria, a time-boxed pilot, a Go / No-Go decision, rollout in batches, champions and KPIs.
 > - **The result:** an enterprise-wide rollout whose method became the template for later security tool rollouts.
-> - **For your team:** this is what my **security tool evaluation** and **rollout playbook** offers deliver.
+> - **In practice:** the method I used as the product manager who led this rollout; see the [results](../../selected-work/security-tool-rollout-at-scale.md).
 
 > **First-hand experience.** This case study is drawn from my own work as the Product Manager who led the evaluation, productisation, rollout and scaling of GitHub Advanced Security (GHAS) in a large global enterprise. The organisation, internal tools, repositories, teams, people, volumes, thresholds and performance results are deliberately left out. Public product facts are kept and cited.
 

@@ -1,25 +1,26 @@
-# Saving 4,500 hours a year through process re-engineering
+# Modernising a legacy product for 500 users
 
-**Role:** Technology Product Owner, Parts Information Engineering · **Organisation:** global manufacturing enterprise
+**Role:** Technology Product Manager, Parts Information (May 2020 to Nov 2024) · **Organisation:** John Deere
 
 ## The situation
 
-Parts information was maintained through manual, repetitive processes on systems more than 20 years old. Customer service teams waited too long for accurate part details.
+Parts information was maintained through manual, repetitive processes on systems more than 20 years old. Customer service teams waited too long for accurate part details, and repeated content authoring ran through a parallel RPA tool.
 
 ## What I did
 
-- Ran two Scrum teams focused on continuous delivery.
-- Re-engineered core processes and replaced legacy systems with modern, decoupled components, taking the programme through investment approval.
-- Launched the **Express Utility** feature, giving accurate part details in under five minutes.
+- Owned the product roadmap and backlog for two Scrum teams serving 500 users worldwide, with about 24 releases a year.
+- Made the business case to leadership for a decoupled architecture that fixed content creation, instead of replacing the whole tool suite, and took it through investment approval.
+- Identified the opportunity for the **Express Utility** and directed the team to deliver it, giving accurate part details in under five minutes.
 - Led discovery for a single-source-of-truth initiative projected to save 15,000+ hours a year.
 
 ## The result
 
-- **4,500 hours saved a year** and **$114K in costs avoided** from process re-engineering.
-- **5,500 hours saved a year** from Express Utility.
+- Content delivered **10x faster** after replacing 20+ years of legacy systems.
+- **4,500 hours saved a year** from the Express Utility.
+- **$114K a year saved** by bringing repeated content authoring in-house and retiring the parallel RPA tool.
 
-## What this means for you
+## Why it matters for security
 
-Security programmes have the same problem: manual triage, spreadsheets and handoffs. I look for the hours being lost and design them out, which is the first step of every **health check** I run.
+Security programmes have the same problem: manual triage, spreadsheets and handoffs. I look for the hours being lost and design them out.
 
 [← Back to portfolio](../README.md)

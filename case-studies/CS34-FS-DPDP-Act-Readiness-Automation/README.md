@@ -8,7 +8,7 @@
 > - **The problem:** India's DPDP Act core duties apply from May 2027, and most banks and NBFCs still track readiness in workshops and spreadsheets.
 > - **The approach:** a closed readiness loop (evaluate, consolidate, remediate, re-evaluate, confirm) on a process-level data map, with RBI, CERT-In and PCI DSS overlays.
 > - **The proof:** a first readiness baseline for a new bank in about seven weeks, with exit gates at each phase.
-> - **For your team:** this is the basis of my **compliance readiness sprint**.
+> - **In practice:** the basis of the compliance readiness sprint on my [Advisory](../../advisory.md) page.
 
 ## 1. Problem statement
 

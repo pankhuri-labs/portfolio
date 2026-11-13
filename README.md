@@ -1,45 +1,60 @@
 # Pankhuri Mishra
 
-**Security Product & Programme Leader · Vulnerability Management · Application Security · Security Tool Rollouts**
+**Security Product & Programme Leader · Application Security · Vulnerability Management · Security Tool Adoption at Enterprise Scale**
 
-I help companies get real value from the security tools they've bought, turning scanners and dashboards into vulnerabilities that actually get fixed.
+I turn security tools into programmes that engineers actually adopt, and measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, leading the platforms used by 10,000+ developers.
 
-Based in Pune, India. Working with clients in India and abroad, remotely.
+Based in Pune, India · Open to security leadership, security programme and security product roles (Pune or remote).
 
 ---
 
-## What I do
+## Impact at a glance
 
-| Service | What you get | Typical length |
-|---|---|---|
-| **Vulnerability management health check** | A review of your current programme, an exploit-driven prioritisation model, SLA and KPI design, and a 90-day roadmap | 2 to 3 weeks |
-| **Security tool evaluation (Go / No-Go)** | Evaluation criteria, a pilot plan, scoring and a recommendation pack your leadership can sign off | 3 to 4 weeks |
-| **Security tool rollout playbook** | Rollout batches, a security champions model, a KPI dashboard spec, and comms and support plans for GHAS, Snyk, Qualys, Defender and similar tools | 2 to 4 weeks |
-| **Fractional AppSec / VM programme manager** | A weekly governance cadence, KPI reporting and remediation follow-through, without hiring a full-time lead | Monthly |
-| **Compliance readiness sprint** | A gap assessment and prioritised plan for DPDP, PCI DSS 4.0.1 or EU CRA | 2 to 3 weeks |
+| | |
+|---|---|
+| **10,000+ developers · 55,000+ repositories** | GitHub Advanced Security rolled out in four months, a month before the legacy contracts ended. Won the company's annual **CISO Award** |
+| **35% → ~70%** | Application security findings fixed within SLA |
+| **$990K a year** | Licence cost removed by replacing the incumbent SAST tool |
+| **~600 secrets** | Blocked before reaching the codebase by push protection |
+| **96%** | Microsoft Defender for Endpoint coverage across the endpoint estate |
+| **12-person AppSec team** | Built from the ground up, plus a 100-person security champions network |
 
-## Selected results
+## Flagship work
 
-- Scaled **GitHub Advanced Security to 10,000+ developers and 55,000 repositories** in four months; the rollout won the company's annual **CISO Award**. → [Selected work](selected-work/security-tool-rollout-at-scale.md)
-- Owned enterprise-wide **Qualys vulnerability management** and **Microsoft Defender for Endpoint** adoption, with remediation workflows, SLAs and MTTR dashboards.
-- Saved **4,500 hours a year and avoided $114K** in costs through process re-engineering. → [Selected work](selected-work/process-reengineering-savings.md)
-- Delivered a global web platform across **50+ country sites in 20+ languages** with 16 developers in 5 locations.
+**1. [Rolling out a security platform to 10,000+ developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for GitHub Advanced Security, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
 
-## Case studies
+**2. [Insourcing a service from vendors, a month and a half early](selected-work/vendor-insourcing.md).** I built a team from scratch to take Content Shared Services for two regions back in-house, despite reluctant stakeholders and a thin contract.
 
-| Case study | The problem it solves | Related service |
-|---|---|---|
-| [Exploit-driven vulnerability prioritisation](case-studies/CS01-Exploit-Driven-Vulnerability-Prioritization/README.md) | Too many findings, SLAs on CVSS, patch time spent on flaws nobody exploits. Includes a working prioritiser script. | VM health check |
-| [Scaling GitHub Advanced Security across a large enterprise](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md) | Adding a new AppSec platform without coverage gaps, duplicate alerts or developer fatigue | Tool evaluation, rollout playbook |
-| [DPDP Act readiness for banks and NBFCs](case-studies/CS34-FS-DPDP-Act-Readiness-Automation/README.md) | Turning India's data protection law into controls, owners and evidence that stay current | Compliance readiness sprint |
+**3. [Modernising a legacy product for 500 users](selected-work/process-reengineering-savings.md).** As product owner for two Scrum teams, I replaced 20+ years of legacy systems, made content delivery 10x faster and saved 4,500 hours a year.
+
+## How I think: case studies
+
+| Case study | The question it answers |
+|---|---|
+| [Exploit-driven vulnerability prioritisation](case-studies/CS01-Exploit-Driven-Vulnerability-Prioritization/README.md) | How do you stop spending patch time on flaws nobody exploits? Includes a working prioritiser script. |
+| [Scaling GitHub Advanced Security across a large enterprise](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md) | How do you add an AppSec platform without coverage gaps, duplicate alerts or developer fatigue? |
+| [DPDP Act readiness for banks and NBFCs](case-studies/CS34-FS-DPDP-Act-Readiness-Automation/README.md) | How do you turn India's data protection law into controls, owners and evidence that stay current? |
+
+## How I lead
+
+- **Treat the security platform as a product.** It needs evaluation criteria, a pilot, a roadmap, adoption metrics and a named owner.
+- **Measure outcomes, not activity.** I track coverage, time to fix and SLA performance, not the number of findings closed.
+- **Make the secure path the easy path.** Zero-touch onboarding, champions and clear exceptions do more than mandates.
+- **Leave it running.** Playbooks, dashboards and owners the team keeps using after the project ends.
+
+## Continuous learning
+
+- Professional Certificate Programme in Cybersecurity and AI, IIT Madras (2026)
+- Executive PG Programme in Machine Learning and AI, IIIT Bangalore (2022)
+- Course projects, labs and notebooks: [course-projects-assignments](https://github.com/pankhuri-labs/course-projects-assignments)
 
 ## About me
 
-20+ years in enterprise technology, from Java and content-management engineering at IBM, Infosys and HCL to product and programme leadership in application security at John Deere. → [More about me](about.md)
+I have 20 years in enterprise technology: 12 in Java and content-management engineering and IBM consulting, then eight at John Deere in project, product and security leadership. → [More about me](about.md)
 
 ## Get in touch
 
 - Email: pankhuri.awasthi@gmail.com
 - LinkedIn: _[add profile link]_
 
-A 30-minute call is the easiest start: tell me what's happening, and I'll suggest where to begin.
+I also take on occasional advisory work for security programmes. → [Advisory](advisory.md)
