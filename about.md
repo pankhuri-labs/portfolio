@@ -16,8 +16,8 @@ I've spent 20 years where technology meets the organisation that has to adopt it
 
 ## Education
 
-- Professional Certificate Programme in Cybersecurity and AI, IIT Madras, 2026
-- Executive Post Graduate Programme in Machine Learning and AI, IIIT Bangalore, 2022
+- Professional Certificate Programme in Cybersecurity and AI, IIT Madras, 2026 ([projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026))
+- Executive Post Graduate Programme in Machine Learning and AI, IIIT Bangalore, 2022 ([projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022))
 - MCA, Rajeev Gandhi University, 2004
 - B.Sc. Statistics, Barkatullah University, 1999
 

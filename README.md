@@ -48,9 +48,11 @@ Based in Pune, India · Open to security leadership, security programme and secu
 
 ## Continuous learning
 
-- Professional Certificate Programme in Cybersecurity and AI, IIT Madras (2026)
-- Executive PG Programme in Machine Learning and AI, IIIT Bangalore (2022)
-- Course projects, labs and notebooks: [course-projects-assignments](https://github.com/pankhuri-labs/course-projects-assignments)
+- Professional Certificate Programme in Cybersecurity and AI, IIT Madras (2026): [seven hands-on security projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026), built in my own lab. Highlights:
+  - [Capstone: secure file storage with access control and auditing](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/07-capstone-linux-access-control-auditing): RBAC, ACLs, auditd and a protected audit report, each control tested
+  - [AI in the SOC: Colonial Pipeline case analysis](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/04-ai-soc-incident-analysis-colonial-pipeline): NIST CSF mapping, limits of AI detection, governance and accountability
+  - [Security log analysis in Splunk](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026/05-security-log-analysis-splunk): AI-generated PowerShell and SPL for blue-team monitoring
+- Executive PG Programme in Machine Learning and AI, IIIT Bangalore (2022): [seven ML and AI projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022)
 
 ## About me
 
