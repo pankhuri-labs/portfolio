@@ -14,7 +14,7 @@ permalink: /
     </div>
   </div>
   <div class="areas">SAST · SCA · Secrets · CI/CD security · Triage &amp; remediation · Security platforms run as products</div>
-  <div class="motto">20 years. Several transitions.<br>One constant: outcome.</div>
+  <div class="motto">20 years. Several transitions. One constant: outcome.</div>
   <p class="intro">I turn security tools into programmes that engineers actually adopt, and I measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM – Technology Product Manager for Application Security and Vulnerability Management at John Deere, owning the platforms used by thousands of developers. Before that: four years owning a global product, two years building a team from scratch, and 14 years in engineering and IBM technical leadership.</p>
   <p class="where">Based in Pune, India · open to roles in Pune, elsewhere in India (open to relocating within India), or remote.</p>
   <div class="cta">
