@@ -20,7 +20,7 @@ Based in Pune, India · Open to security leadership, security programme and secu
 
 ## Flagship work
 
-**1. [Rolling out a security platform to thousands of developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for GitHub Advanced Security, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
+**1. [Rolling out a security platform to thousands of developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for an enterprise code-scanning platform, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
 
 **2. [Insourcing a service from vendors, a month and a half early](selected-work/vendor-insourcing.md).** I built a team from scratch to take Content Shared Services for two regions back in-house, and had it running a month and a half ahead of plan.
 

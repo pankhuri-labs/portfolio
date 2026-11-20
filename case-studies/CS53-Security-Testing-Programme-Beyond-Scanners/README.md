@@ -8,7 +8,7 @@ Domain: Large enterprises with in-house engineering (manufacturing, BFSI, SaaS, 
 
 | Part of this case study | Status | Source |
 |---|---|---|
-| Scanner programme at scale (GHAS CodeQL, secret scanning with push protection, Mend SCA, Qualys VMDR, Microsoft Defender VM) | **Based on real experience** | Thousands of developers and tens of thousands of repositories; hundreds of secrets blocked by push protection |
+| Scanner programme at scale (SAST, secret scanning with push protection, SCA, enterprise VM and endpoint platforms) | **Based on real experience** | Thousands of developers and tens of thousands of repositories; hundreds of secrets blocked by push protection |
 | Severity-based SLA policy and its enforcement | **Based on real experience** | I owned and enforced it; SLA compliance roughly doubled |
 | Exception process | **Based on real experience** | I owned the exception process for AppSec and VM findings |
 | Risk registers and a 100-member security champions network | **Based on real experience** | I ran both |
@@ -221,7 +221,7 @@ This section is design. I have not managed pen-test vendors. It applies the vend
 
 ### 5.7 Feeding findings into the VM programme
 
-> **Based on real experience.** The SLA policy, exception process, risk registers, champions network and metrics below are the ones I owned and enforced for the scanner programme (GHAS, Mend, Qualys VMDR, Microsoft Defender VM). The design extends them to pen-test, DAST and bounty findings. The pen-test-specific parts (severity mapping from vendor ratings, retest evidence, pen-test delta) are design.
+> **Based on real experience.** The SLA policy, exception process, risk registers, champions network and metrics below are the ones I owned and enforced for the scanner programme (SAST, SCA, VM and endpoint platforms). The design extends them to pen-test, DAST and bounty findings. The pen-test-specific parts (severity mapping from vendor ratings, retest evidence, pen-test delta) are design.
 
 **Principle: one intake, one rating, one SLA, one exception process.** A pen-test finding is a finding. It goes where scanner findings go.
 

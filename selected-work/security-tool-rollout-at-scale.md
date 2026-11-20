@@ -19,12 +19,12 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 - A **major cut in annual licence cost** from retiring two tools.
 - **Near-complete secret-scanning coverage** across repositories, with **hundreds of secrets blocked** by push protection, and **near-complete repository coverage** in the targeted departments.
 - Findings fixed within SLA **roughly doubled**.
-- The rollout won the company's annual **CISO Award**, and the method became the template for the Microsoft Defender for Endpoint rollout.
+- The rollout won the company's annual **CISO Award**, and the method became the template for the endpoint protection platform rollout.
 
 ## What I'd tell another security leader
 
 If adoption of a security tool has stalled, the problem is rarely the tool. It's the rollout plan, the ownership and the metrics.
 
-Deeper write-up: [Scaling GitHub Advanced Security across a large enterprise](../case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md)
+Deeper write-up: [Scaling a code-scanning platform across a large enterprise](../case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md)
 
 [← Back to portfolio](../README.md)
