@@ -24,7 +24,7 @@ permalink: /
   <p class="lede">I owned the strategy, roadmap and backlog for five application security and vulnerability management platform products used across the enterprise.</p>
   <div class="stats">
     <div class="stat"><div class="n">Enterprise-wide</div><div class="l">An enterprise code-scanning platform (SAST, secret scanning, push protection) rolled out to thousands of developers</div></div>
-    <div class="stat"><div class="n">4 months</div><div class="l">From evaluation to operation, <b>a month ahead of plan</b>, replacing a legacy SAST tool and a home-grown secrets scanner</div></div>
+    <div class="stat"><div class="n">4 months</div><div class="l">Batched enterprise rollout, <b>a month ahead of plan</b>, after evaluation, pilot and false-positive tuning in earlier quarters</div></div>
     <div class="stat"><div class="n">~2x</div><div class="l">Application security findings fixed within SLA, roughly doubled</div></div>
     <div class="stat"><div class="n">Two tools → one</div><div class="l">Legacy tools retired, with a major cut in annual licence cost</div></div>
     <div class="stat"><div class="n">Hundreds</div><div class="l">of secrets blocked by push protection before they reached the codebase</div></div>

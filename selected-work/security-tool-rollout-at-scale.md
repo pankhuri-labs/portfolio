@@ -1,4 +1,4 @@
-# Rolling out a security platform to thousands of developers in four months
+# Rolling out a security platform to thousands of developers
 
 **Role:** AGM and Technology Product Manager, Application Security and Vulnerability Management (Dec 2024 to Sep 2026) · **Organisation:** John Deere
 
@@ -16,7 +16,7 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 
 ## The result
 
-- Rolled out in **four months, a month ahead of plan**.
+- Evaluation, pilot and false-positive tuning done in earlier quarters, then the batched rollout completed in **four months, a month ahead of plan**.
 - A **major cut in annual licence cost** from retiring two tools.
 - **Near-complete secret-scanning coverage** across repositories, with **hundreds of secrets blocked** by push protection, and **near-complete repository coverage** in the targeted departments.
 - Findings fixed within SLA **roughly doubled**.
