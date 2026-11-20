@@ -8,7 +8,7 @@ Domain: Large enterprises with in-house engineering (manufacturing, BFSI, SaaS, 
 
 | Part of this case study | Status | Source |
 |---|---|---|
-| Scanner programme at scale (GHAS CodeQL, secret scanning with push protection, Mend SCA, Qualys VMDR, Microsoft Defender VM) | **Based on real experience** | 10,000+ developers, 55,000+ repositories; about 600 secrets blocked by push protection; Defender VM coverage 96% |
+| Scanner programme at scale (GHAS CodeQL, secret scanning with push protection, Mend SCA, Qualys VMDR, Microsoft Defender VM) | **Based on real experience** | 10,000+ developers, 55,000+ repositories; about 600 secrets blocked by push protection |
 | Severity-based SLA policy and its enforcement | **Based on real experience** | I owned and enforced it; GHAS SLA compliance moved from 35% to about 70% |
 | Exception process | **Based on real experience** | I owned the exception process for AppSec and VM findings |
 | Risk registers and a 100-member security champions network | **Based on real experience** | I ran both |

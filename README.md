@@ -16,8 +16,7 @@ Based in Pune, India · Open to security leadership, security programme and secu
 | **35% → ~70%** | Application security findings fixed within SLA |
 | **$990K a year** | Licence cost removed by replacing the incumbent SAST tool |
 | **~600 secrets** | Blocked before reaching the codebase by push protection |
-| **96%** | Microsoft Defender for Endpoint coverage across the endpoint estate |
-| **12-person AppSec team** | Built from the ground up, plus a 100-person security champions network |
+| **~100 security champions** | A network across departments that carried adoption, working with a new 12-person AppSec engineering team built by my engineering manager |
 
 ## Flagship work
 

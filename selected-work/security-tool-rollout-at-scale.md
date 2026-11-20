@@ -9,7 +9,7 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 ## What I did
 
 - Defined the **evaluation criteria** and ran a time-boxed, phased pilot of secret scanning and code scanning.
-- Built a **12-person AppSec team** from the ground up and guided it to a **Go / No-Go recommendation** that leadership approved.
+- Delivered with a new **12-person AppSec engineering team** built by my engineering manager, and guided the evaluation to a **Go / No-Go recommendation** that leadership approved.
 - Planned **rollout batches**, owned the KPIs and the severity-based SLA policy, and built a **security champions network of about 100 people** across departments.
 - Handled the hard trade-off: business units that couldn't yet move to the cloud got the tools on the on-premises instance, with an agreed path to migrate.
 
@@ -19,7 +19,7 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 - **$990K a year** in licence cost removed.
 - **99% secret-scanning coverage** across all repositories, with **~600 secrets blocked** by push protection, and **95% repository coverage** in the targeted departments.
 - Findings fixed within SLA rose from **35% to about 70%**.
-- The rollout won the company's annual **CISO Award**, and the method became the template for the Microsoft Defender for Endpoint rollout (96% coverage).
+- The rollout won the company's annual **CISO Award**, and the method became the template for the Microsoft Defender for Endpoint rollout.
 
 ## What I'd tell another security leader
 
