@@ -11,6 +11,7 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 - Defined the **evaluation criteria** and ran a time-boxed, phased pilot of secret scanning and code scanning.
 - Delivered with a new **12-person AppSec engineering team** built by my engineering manager, and guided the evaluation to a **Go / No-Go recommendation** that leadership approved.
 - Planned **rollout batches**, owned the KPIs and the severity-based SLA policy, and built a **security champions network of about 100 people** across departments.
+- Worked with developers to harden the CI/CD path: branch protection rules, and access and permissions limited to specific directory groups.
 - Handled the hard trade-off: business units that couldn't yet move to the cloud got the tools on the on-premises instance, with an agreed path to migrate.
 
 ## The result

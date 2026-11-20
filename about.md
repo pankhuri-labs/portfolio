@@ -14,7 +14,9 @@ I've spent 20 years where technology meets the organisation that has to adopt it
 
 **Engineering and IBM consulting (2004 to 2018).** Java/J2EE and Documentum development at HCL, Infosys and IBM, then IBM technical lead for 16 developers across India, the US and Mexico on Deere.com, live in 40+ countries and 20+ languages.
 
-## Education
+## Education and certifications
+
+- Certified Scrum Product Owner (CSPO), renewed November 2026
 
 - Professional Certificate Programme in Cybersecurity and AI, IIT Madras, 2026 ([projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iitm-cybersecurity-ai-2026))
 - Executive Post Graduate Programme in Machine Learning and AI, IIIT Bangalore, 2022 ([projects](https://github.com/pankhuri-labs/course-projects-assignments/tree/main/iiitb-ml-ai-2022))
