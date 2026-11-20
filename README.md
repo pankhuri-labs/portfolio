@@ -1,6 +1,7 @@
 ---
 title: Pankhuri Mishra
 home: true
+permalink: /
 ---
 
 <div class="hero"><div class="in">
