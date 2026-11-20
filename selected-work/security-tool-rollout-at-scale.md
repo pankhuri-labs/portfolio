@@ -1,10 +1,10 @@
-# Rolling out a security platform to 10,000+ developers in four months
+# Rolling out a security platform to thousands of developers in four months
 
 **Role:** AGM and Technology Product Manager, Application Security and Vulnerability Management (Dec 2024 to Sep 2026) · **Organisation:** John Deere
 
 ## The situation
 
-The company was replacing an incumbent SAST tool and a home-grown secret scanner. The old tools were noisy and unstable, and developers were frustrated with handoffs. The estate covered more than 55,000 repositories, including citizen developers building automations outside IT. Only 35% of application security findings were being fixed within SLA.
+The company was replacing an incumbent SAST tool and a home-grown secret scanner. The old tools were noisy and unstable, and developers were frustrated with handoffs. The estate covered tens of thousands of repositories, including citizen developers building automations outside IT. Only about a third of application security findings were being fixed within SLA.
 
 ## What I did
 
@@ -16,9 +16,9 @@ The company was replacing an incumbent SAST tool and a home-grown secret scanner
 ## The result
 
 - Rolled out in **four months, a month ahead of plan**.
-- **$990K a year** in licence cost removed.
-- **99% secret-scanning coverage** across all repositories, with **~600 secrets blocked** by push protection, and **95% repository coverage** in the targeted departments.
-- Findings fixed within SLA rose from **35% to about 70%**.
+- A **major cut in annual licence cost** from retiring two tools.
+- **Near-complete secret-scanning coverage** across repositories, with **hundreds of secrets blocked** by push protection, and **near-complete repository coverage** in the targeted departments.
+- Findings fixed within SLA **roughly doubled**.
 - The rollout won the company's annual **CISO Award**, and the method became the template for the Microsoft Defender for Endpoint rollout.
 
 ## What I'd tell another security leader

@@ -8,17 +8,17 @@ Domain: Large enterprises with in-house engineering (manufacturing, BFSI, SaaS, 
 
 | Part of this case study | Status | Source |
 |---|---|---|
-| Scanner programme at scale (GHAS CodeQL, secret scanning with push protection, Mend SCA, Qualys VMDR, Microsoft Defender VM) | **Based on real experience** | 10,000+ developers, 55,000+ repositories; about 600 secrets blocked by push protection |
-| Severity-based SLA policy and its enforcement | **Based on real experience** | I owned and enforced it; GHAS SLA compliance moved from 35% to about 70% |
+| Scanner programme at scale (GHAS CodeQL, secret scanning with push protection, Mend SCA, Qualys VMDR, Microsoft Defender VM) | **Based on real experience** | Thousands of developers and tens of thousands of repositories; hundreds of secrets blocked by push protection |
+| Severity-based SLA policy and its enforcement | **Based on real experience** | I owned and enforced it; SLA compliance roughly doubled |
 | Exception process | **Based on real experience** | I owned the exception process for AppSec and VM findings |
 | Risk registers and a 100-member security champions network | **Based on real experience** | I ran both |
-| Tool rationalisation | **Based on real experience** | Replaced a commercial SAST tool, removing $990K a year of licence cost |
+| Tool rationalisation | **Based on real experience** | Replaced a commercial SAST tool, with a major cut in annual licence cost |
 | DAST, pen test, bug bounty, VDP, red team, vendor management | **Design** | Built from public standards (OWASP WSTG, ASVS, PTES, NIST SP 800-115, CVSS) |
 | Numbers for tiers, costs and targets | **Illustrative** | Labelled where used; not from any employer |
 
 ## 1. Problem statement
 
-A large enterprise with about 55,000 repositories and 10,000 developers already runs SAST, SCA and secret scanning at scale. The scanners work. Findings flow, SLAs exist and compliance is improving. Leadership now asks three questions:
+A large enterprise with tens of thousands of repositories and thousands of developers already runs SAST, SCA and secret scanning at scale. The scanners work. Findings flow, SLAs exist and compliance is improving. Leadership now asks three questions:
 
 1. What security testing do we need beyond scanners?
 2. How do we choose the right testing for each application?
@@ -285,7 +285,7 @@ For example, a CVSS High IDOR on a Tier 1 internet-facing app holding customer d
 
 ## 6. Rollout plan
 
-All budget figures are **illustrative**, for an estate of about 2,000 business applications behind the 55,000 repositories.
+All budget figures are **illustrative**, for an estate of about 2,000 business applications behind those repositories.
 
 | Phase | Weeks | What happens | Output |
 |---|---|---|---|
@@ -305,7 +305,7 @@ All budget figures are **illustrative**, for an estate of about 2,000 business a
 | Bug bounty (year 2) | Managed platform with triage, plus bounties | USD 150K to 400K |
 | Triage and programme staff | 3 to 4 FTE AppSec engineers | Internal cost |
 
-These are not employer figures. A useful framing for leadership: a mature scanner estate can often fund part of this from rationalisation. **Based on real experience,** replacing a commercial SAST tool removed $990K a year of licence cost in my last role; that is the scale of saving that makes a tiered testing budget a re-allocation, not only a new ask.
+These are not employer figures. A useful framing for leadership: a mature scanner estate can often fund part of this from rationalisation. **Based on real experience,** replacing a commercial SAST tool cut a large annual licence cost in my last role; that is the scale of saving that makes a tiered testing budget a re-allocation, not only a new ask.
 
 ## 7. KPIs
 
@@ -313,7 +313,7 @@ These are not employer figures. A useful framing for leadership: a mature scanne
 |---|---|---|---|
 | Coverage by tier | % of Tier 1 / Tier 2 apps with an in-date pen test and active DAST | Shows the plan is executed | Tier 1: 100% pen test, 100% DAST |
 | Mean time to remediate by source | MTTR for scanner, DAST, pen-test and bounty findings, by risk rating | Shows if one source rots | Within SLA for all sources |
-| SLA compliance by source | % of findings fixed within SLA, by source and tier | **Based on real experience:** the metric I used for GHAS (35% to about 70%) | 85%+ for Critical and High on Tier 1 |
+| SLA compliance by source | % of findings fixed within SLA, by source and tier | **Based on real experience:** the metric I used for the code scanning rollout (roughly doubled) | 85%+ for Critical and High on Tier 1 |
 | **Pen-test delta** | % of valid pen-test findings with no matching scanner or DAST finding | Proves the value of human testing; guides scope | Track trend; expect most Critical and High to be in the delta |
 | Retest pass rate | % of findings that pass first retest | Shows fix quality | 90%+ |
 | Repeat findings | % of findings in the same CWE and app as last year | Shows if root-cause work lands | Falling year on year |

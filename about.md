@@ -2,8 +2,8 @@
 
 I've spent 20 years where technology meets the organisation that has to adopt it: 12 in engineering and IBM consulting, then eight at John Deere as the client, in project, product and security leadership.
 
-**Application security and vulnerability management (Dec 2024 to Sep 2026).** As AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, I led the security platforms used by 10,000+ developers, with 22 people across AppSec and VM.
-- Led the evaluation and rollout of GitHub Advanced Security to 55,000+ repositories in four months, replacing the incumbent SAST tool and a home-grown secret scanner. This removed $990K a year in licence cost, blocked ~600 secrets with push protection, lifted AppSec findings fixed within SLA from 35% to ~70%, and won the CISO Award.
+**Application security and vulnerability management (Dec 2024 to Sep 2026).** As AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, I led the security platforms used by thousands of developers, working with AppSec and VM teams across India and the US.
+- Led the evaluation and rollout of GitHub Advanced Security across the enterprise in four months, replacing the incumbent SAST tool and a home-grown secret scanner. This cut annual licence cost substantially, blocked hundreds of secrets with push protection, roughly doubled AppSec findings fixed within SLA, and the rollout team won the CISO Award.
 - Delivered with a new 12-person AppSec engineering team built by my engineering manager, and grew a 100-person security champions network.
 - Led the evaluation, pilot and rollout of Microsoft Defender for Endpoint, and supported Engineering's CrowdStrike container scanning rollout with communication and stakeholder alignment.
 - Ran risk-based vulnerability management on Qualys, with remediation SLAs and KPI reporting for leadership.

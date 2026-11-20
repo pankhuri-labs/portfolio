@@ -2,7 +2,7 @@
 
 **Security Product & Programme Leader · Application Security · Vulnerability Management · Security Tool Adoption at Enterprise Scale**
 
-I turn security tools into programmes that engineers actually adopt, and measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, leading the platforms used by 10,000+ developers.
+I turn security tools into programmes that engineers actually adopt, and measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, leading the platforms used by thousands of developers across the enterprise.
 
 Based in Pune, India · Open to security leadership, security programme and security product roles (Pune or remote).
 
@@ -12,15 +12,15 @@ Based in Pune, India · Open to security leadership, security programme and secu
 
 | | |
 |---|---|
-| **10,000+ developers · 55,000+ repositories** | GitHub Advanced Security rolled out in four months, a month ahead of plan. Won the company's annual **CISO Award** |
-| **35% → ~70%** | Application security findings fixed within SLA |
-| **$990K a year** | Licence cost removed by replacing the incumbent SAST tool |
-| **~600 secrets** | Blocked before reaching the codebase by push protection |
+| **Enterprise-wide, a month early** | A code security platform rolled out to thousands of developers in four months, a month ahead of plan. The rollout team won the company's annual **CISO Award** |
+| **~2x** | Application security findings fixed within SLA, roughly doubled |
+| **Two tools → one** | Legacy SAST tool and home-grown secret scanner retired, with a major cut in annual licence cost |
+| **Hundreds of secrets** | Blocked by push protection before they reached the codebase |
 | **~100 security champions** | A network across departments that carried adoption, working with a new 12-person AppSec engineering team built by my engineering manager |
 
 ## Flagship work
 
-**1. [Rolling out a security platform to 10,000+ developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for GitHub Advanced Security, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
+**1. [Rolling out a security platform to thousands of developers](selected-work/security-tool-rollout-at-scale.md).** I led the evaluation, Go / No-Go decision, batch rollout and operating model for GitHub Advanced Security, replacing two legacy tools. Deeper write-up: [CS35](case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/README.md).
 
 **2. [Insourcing a service from vendors, a month and a half early](selected-work/vendor-insourcing.md).** I built a team from scratch to take Content Shared Services for two regions back in-house, and had it running a month and a half ahead of plan.
 
