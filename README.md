@@ -4,7 +4,7 @@
 
 I turn security tools into programmes that engineers actually adopt, and measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM and Technology Product Manager for Application Security and Vulnerability Management at John Deere, leading the platforms used by thousands of developers across the enterprise.
 
-Based in Pune, India · Open to security leadership, security programme and security product roles (Pune or remote).
+Based in Pune, India · Open to security leadership, security programme and security product roles in Pune, elsewhere in India (open to relocating within India), or remote.
 
 ---
 
