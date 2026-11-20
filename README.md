@@ -6,8 +6,13 @@ permalink: /
 
 <div class="hero"><div class="in">
   <div class="eyebrow">Portfolio · Security product &amp; programme leadership</div>
-  <h1>PANKHURI MISHRA</h1>
-  <div class="title">Product Manager · Application Security &amp; Vulnerability Management</div>
+  <div class="id">
+    <img class="headshot" src="assets/img/headshot.jpg" alt="Pankhuri Mishra" width="140" height="140">
+    <div>
+      <h1>PANKHURI MISHRA</h1>
+      <div class="title">Product Manager · Application Security &amp; Vulnerability Management</div>
+    </div>
+  </div>
   <div class="areas">SAST · SCA · Secrets · CI/CD security · Triage &amp; remediation · Security platforms run as products</div>
   <div class="motto">20 years. Several transitions.<br>One constant: outcome.</div>
   <p class="intro">I turn security tools into programmes that engineers actually adopt, and I measure success by vulnerabilities fixed, not alerts raised. Most recently I was AGM – Technology Product Manager for Application Security and Vulnerability Management at John Deere, owning the platforms used by thousands of developers. Before that: four years owning a global product, two years building a team from scratch, and 14 years in engineering and IBM technical leadership.</p>
