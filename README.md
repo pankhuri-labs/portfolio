@@ -90,7 +90,7 @@ permalink: /
 <section class="block" id="case-studies">
   <div class="eyebrow">How I think</div>
   <h2>Case studies</h2>
-  <p class="lede">Seven write-ups on the questions security programmes get stuck on, with scripts and templates.</p>
+  <p class="lede">Eight write-ups on the questions security programmes get stuck on, with scripts and templates.</p>
   <div class="cards">
     <div class="card"><div class="tag">Vulnerability management</div><h3>Exploit-driven prioritisation</h3><p class="q">How do you stop spending patch time on flaws nobody exploits?</p><p>EPSS + CISA KEV + asset context, with a working prioritiser script.</p><a class="more" href="case-studies/CS01-Exploit-Driven-Vulnerability-Prioritization/">Read →</a></div>
     <div class="card"><div class="tag">Application security</div><h3>Scaling a code-scanning platform across a large enterprise</h3><p class="q">How do you add an AppSec platform without coverage gaps, duplicate alerts or developer fatigue?</p><a class="more" href="case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/">Read →</a></div>
@@ -98,7 +98,8 @@ permalink: /
     <div class="card"><div class="tag">Product &amp; adoption</div><h3>Why security tools fail to land</h3><p class="q">What stops a bought tool from being adopted, and what must vendors fix to scale across customers?</p><p>Includes adoption scorecards.</p><a class="more" href="case-studies/CS50-Security-Tool-Adoption-and-Vendor-Scaling/">Read →</a></div>
     <div class="card"><div class="tag">Governance</div><h3>Running a penetration testing programme</h3><p class="q">How do you scope, govern and close out pen tests so the same findings stop coming back?</p><p>Includes governance templates.</p><a class="more" href="case-studies/CS47-Penetration-Testing-Programme-Management/">Read →</a></div>
     <div class="card"><div class="tag">Application security</div><h3>AppSec debt and the developer ratio</h3><p class="q">How does a small AppSec team cover hundreds of developers?</p><p>Paved roads, champions and risk-based triage.</p><a class="more" href="case-studies/CS25-AppSec-Debt-and-Developer-Ratio/">Read →</a></div>
-    <div class="card wide"><div class="tag">AI in application security</div><h3>AI's impact on application security</h3><p class="q">What changes when AI writes the code, runs inside the toolchain, ships inside the product, and helps both attackers and defenders?</p><p>Problems, root causes and a 90-day plan, with an AI-AppSec readiness checklist.</p><a class="more" href="case-studies/CS51-AI-Impact-on-Application-Security/">Read →</a></div>
+    <div class="card"><div class="tag">CI/CD security</div><h3>CI/CD pipeline hardening</h3><p class="q">How do you secure build pipelines, the most privileged and least governed systems in a software company?</p><p>Pinned actions, least-privilege tokens and branch protection, with a working workflow-audit script.</p><a class="more" href="case-studies/CS12-CICD-Pipeline-Hardening/">Read →</a></div>
+    <div class="card"><div class="tag">AI in application security</div><h3>AI's impact on application security</h3><p class="q">What changes when AI writes the code, runs inside the toolchain, ships inside the product, and helps both attackers and defenders?</p><p>Problems, root causes and a 90-day plan, with an AI-AppSec readiness checklist.</p><a class="more" href="case-studies/CS51-AI-Impact-on-Application-Security/">Read →</a></div>
   </div>
 </section>
 
