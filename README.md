@@ -41,6 +41,22 @@ permalink: /
   <p class="lede" style="margin-top:20px;font-size:15px">How the work was set up: I reported to a Group Product Manager in the CISO organisation, led AppSec and VM people functionally across India and the US, and delivered through a new AppSec engineering team built by my engineering manager. I owned the roadmap, priorities, evaluation criteria, timelines, adoption metrics and the SLA policy.</p>
 </section>
 
+<section class="block" id="capabilities">
+  <div class="eyebrow">Capabilities I owned</div>
+  <h2>The AppSec and VM tool stack, end to end</h2>
+  <p class="lede">As product owner I ran each capability from evaluation and configuration to rollout, adoption and, for legacy tools, retirement.</p>
+  <div class="cards caps">
+    <div class="card"><div class="tag">SAST</div><h3>Code scanning</h3><p>Evaluation, pilot and a batched enterprise rollout; an extended query suite and a custom query for unpinned CI/CD actions. The legacy SAST tool was retired.</p></div>
+    <div class="card"><div class="tag">Secrets</div><h3>Secret scanning &amp; push protection</h3><p>Near-complete coverage across repositories, custom patterns to cut false positives, hundreds of secrets blocked before they reached code. A home-grown scanner was retired.</p></div>
+    <div class="card"><div class="tag">SCA</div><h3>Open-source dependency risk</h3><p>Reachability analysis to focus on exploitable components, and auto-remediation pull requests for thousands of developers.</p></div>
+    <div class="card"><div class="tag">Vulnerability management</div><h3>Infrastructure &amp; cloud</h3><p>Authenticated and external scans plus cloud agents, near-complete coverage of a large estate, risk-based prioritisation with EPSS and CISA KEV.</p></div>
+    <div class="card"><div class="tag">Endpoint</div><h3>Endpoint vulnerability management</h3><p>Evaluation, pilot and rollout across the estate, with near-complete coverage of Windows machines and integration into the remediation workflow.</p></div>
+    <div class="card"><div class="tag">Containers</div><h3>Container image scanning in CI/CD</h3><p>Image scanning live in pipelines, replacing an open-source scanner, with blocking on Critical and High findings configurable per product team. A pilot-first licence plan.</p></div>
+    <div class="card"><div class="tag">CI/CD controls</div><h3>Pipeline hardening</h3><p>Branch protection rules and access limited to specific directory groups, worked out with developers.</p></div>
+    <div class="card"><div class="tag">Remediation workflow</div><h3>Finding to fix</h3><p>Risk-weighted routing to owner groups, escalation and severity-based SLAs. <a href="selected-work/finding-to-fix.html">How it worked →</a></p></div>
+  </div>
+</section>
+
 <section class="block" id="work">
   <div class="eyebrow">Flagship work</div>
   <h2>Selected work</h2>
@@ -74,7 +90,7 @@ permalink: /
 <section class="block" id="case-studies">
   <div class="eyebrow">How I think</div>
   <h2>Case studies</h2>
-  <p class="lede">Seven write-ups on the questions security programmes get stuck on, with scripts and templates.</p>
+  <p class="lede">Six write-ups on the questions security programmes get stuck on, with scripts and templates.</p>
   <div class="cards">
     <div class="card"><div class="tag">Vulnerability management</div><h3>Exploit-driven prioritisation</h3><p class="q">How do you stop spending patch time on flaws nobody exploits?</p><p>EPSS + CISA KEV + asset context, with a working prioritiser script.</p><a class="more" href="case-studies/CS01-Exploit-Driven-Vulnerability-Prioritization/">Read →</a></div>
     <div class="card"><div class="tag">Application security</div><h3>Scaling a code-scanning platform across a large enterprise</h3><p class="q">How do you add an AppSec platform without coverage gaps, duplicate alerts or developer fatigue?</p><a class="more" href="case-studies/CS35-GitHub-Advanced-Security-Enterprise-Rollout/">Read →</a></div>
@@ -82,7 +98,6 @@ permalink: /
     <div class="card"><div class="tag">Product &amp; adoption</div><h3>Why security tools fail to land</h3><p class="q">What stops a bought tool from being adopted, and what must vendors fix to scale across customers?</p><p>Includes adoption scorecards.</p><a class="more" href="case-studies/CS50-Security-Tool-Adoption-and-Vendor-Scaling/">Read →</a></div>
     <div class="card"><div class="tag">Governance</div><h3>Running a penetration testing programme</h3><p class="q">How do you scope, govern and close out pen tests so the same findings stop coming back?</p><p>Includes governance templates.</p><a class="more" href="case-studies/CS47-Penetration-Testing-Programme-Management/">Read →</a></div>
     <div class="card"><div class="tag">Application security</div><h3>AppSec debt and the developer ratio</h3><p class="q">How does a small AppSec team cover hundreds of developers?</p><p>Paved roads, champions and risk-based triage.</p><a class="more" href="case-studies/CS25-AppSec-Debt-and-Developer-Ratio/">Read →</a></div>
-    <div class="card wide"><div class="tag">Privacy &amp; compliance</div><h3>DPDP Act readiness for banks and NBFCs</h3><p class="q">How do you turn India's data protection law into controls, owners and evidence that stay current?</p><a class="more" href="case-studies/CS34-FS-DPDP-Act-Readiness-Automation/">Read →</a></div>
   </div>
 </section>
 
